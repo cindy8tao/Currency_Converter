@@ -14,7 +14,7 @@ The purpose of this program is to convert dollar into the currency type of your 
 ### Installation
 * Download the code
 * Extract the Zip File
-* Open any JAVA IDE and import the file
+* Open terminal, compile, then run the program!
 
 ### Demo
 ![cc](https://user-images.githubusercontent.com/64484253/130274974-3ae80366-21ce-41ae-aa1f-46fb8b0c067a.gif)
