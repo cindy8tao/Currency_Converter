@@ -17,7 +17,8 @@ The purpose of this program is to convert dollar into the currency type of your 
 * Open any JAVA IDE and import the file
 
 ### Demo
-![cc](https://user-images.githubusercontent.com/64484253/130274761-b9a022c6-7493-43af-b2e7-e64e4044edc0.gif)
+![cc](https://user-images.githubusercontent.com/64484253/130274974-3ae80366-21ce-41ae-aa1f-46fb8b0c067a.gif)
+
 
 ### Contact-Information
 [Github Profile](https://github.com/cindy8tao)
